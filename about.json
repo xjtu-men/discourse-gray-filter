@@ -1,0 +1,15 @@
+{
+  "name": "gray filter",
+  "version": 0.1,
+  "component": true,
+  "license": "MIT",
+  "authors": ["xjtu-men"],
+  "theme_version": null,
+  "minimum_discourse_version": null,
+  "maximum_discourse_version": null,
+  "color_schemes": {
+  },
+  "modifiers": {
+  },
+  "about_url": "https://github.com/xjtu-men/discourse-gray-filter"
+}
